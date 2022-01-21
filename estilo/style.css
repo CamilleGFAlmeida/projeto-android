@@ -68,7 +68,7 @@ header > p {
     padding-right: 10px;
     padding-left: 10px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
-    padding-bottom: 20px; /* add para ter um espaço no menu em telas menores - ultima aula */  
+    padding-bottom: 50px; /* add para ter um espaço no menu em telas menores - ultima aula */  
 }
 
 nav { /* menu home, noticias.. */ 
